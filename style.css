@@ -1,0 +1,26 @@
+body{
+    font-family:monospace;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.heading-1{
+    color: white;
+    background-color: black;
+    border: none;
+    margin: 50px;
+    padding-right: 10px;
+    float: left;
+   
+    
+
+}
+
+.heading-2{
+    
+    border: none;
+    margin: 50px;
+    padding-left: 100px;
+    text-align: right;
+    float: right;
+    
+}
